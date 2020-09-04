@@ -92,7 +92,7 @@ h1 {
 	    padding-right: 15px;
 	}
 }
-@media (max-width: 768px) {
+@media (max-width: 767px) {
 	section {
 		display: inline-block;
 		background-color: grey;
